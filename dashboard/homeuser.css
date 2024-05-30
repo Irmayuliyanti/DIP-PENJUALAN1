@@ -1,0 +1,9 @@
+.menu-container {
+    display: flex;
+    align-items: center; /* Posisi menu select secara vertikal tengah */
+  }
+  
+  label {
+    width: 200px; /* Atur lebar label sesuai kebutuhan */
+    margin-right: 20px; /* Jarak antara label dan select */
+  }
